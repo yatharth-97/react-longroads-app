@@ -37,6 +37,7 @@ const Footer = () => {
 
         <p className='copyright'>
           copyright &copy; LongRoads Travel Tours company
+          <span id='date'>{new Date().getFullYear()}</span> all rights reserved
         </p>
       </footer>
     </>
