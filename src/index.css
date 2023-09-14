@@ -6,30 +6,30 @@ Variables
 
 :root {
   /* dark shades of primary color*/
-  --clr-primary-1: #4c0519;
-  --clr-primary-2: #881337;
-  --clr-primary-3: #9f1239;
-  --clr-primary-4: #be123c;
+  --clr-primary-1: #1e1b4b;
+  --clr-primary-2: #312e81;
+  --clr-primary-3: #3730a3;
+  --clr-primary-4: #4338ca;
   /* primary/main color */
-  --clr-primary-5: #f43f5e;
+  --clr-primary-5: #6366f1;
   /* lighter shades of primary color */
-  --clr-primary-6: #e11d48;
-  --clr-primary-7: #fb7185;
-  --clr-primary-8: #fda4af;
-  --clr-primary-9: #fecdd3;
-  --clr-primary-10: #ffe4e6;
+  --clr-primary-6: #4f46e5;
+  --clr-primary-7: #818cf8;
+  --clr-primary-8: #a5b4fc;
+  --clr-primary-9: #c7d2fe;
+  --clr-primary-10: #e0e7ff;
   /* darkest grey - used for headings */
-  --clr-grey-1: #450a0a;
-  --clr-grey-2: #7f1d1d;
-  --clr-grey-3: #991b1b;
-  --clr-grey-4: #b91c1c;
+  --clr-grey-1: #030712;
+  --clr-grey-2: #111827;
+  --clr-grey-3: #1f2937;
+  --clr-grey-4: #374151;
   /* grey used for paragraphs */
-  --clr-grey-5: #dc2626;
-  --clr-grey-6: #ef4444;
-  --clr-grey-7: #f87171;
-  --clr-grey-8: #fca5a5;
-  --clr-grey-9: #fecaca;
-  --clr-grey-10: #fee2e2;
+  --clr-grey-5: #4b5563;
+  --clr-grey-6: #6b7280;
+  --clr-grey-7: #9ca3af;
+  --clr-grey-8: #d1d5db;
+  --clr-grey-9: #e5e7eb;
+  --clr-grey-10: #f3f4f6;
   --clr-white: #fff;
   --ff-primary: 'Lato', sans-serif;
   --transition: all 0.3s linear;
